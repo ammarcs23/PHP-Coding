@@ -66,3 +66,7 @@ if ($conn->query($sql) === TRUE) {
 // ----------------------------
 $conn->close();
 ?>
+
+//cd /d D:\Web-Technologies\PHP-Coding
+//php -S localhost:8000
+
