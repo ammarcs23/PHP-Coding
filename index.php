@@ -12,3 +12,7 @@ echo "<br>$x";
 $x = $y = $z = "Fruit";
 echo "<br>$x";
 ?>
+
+//cd /d D:\Web-Technologies\PHP-Coding
+//php -S localhost:8000
+
