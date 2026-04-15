@@ -81,5 +81,5 @@ echo $result . "<br>";
 <?php else: ?>
     <p>Minor (Alternative Syntax)</p>
 <?php endif; ?>
-
+//cd /d D:\Web-Technologies\PHP-Coding
 //php -S localhost:8000

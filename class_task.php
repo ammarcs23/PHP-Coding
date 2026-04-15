@@ -1,4 +1,4 @@
-<?php
+7<?php
 // 1. String (text values)
 $str = "Hello World";
 echo "String: $str";
@@ -50,3 +50,6 @@ $mixed = 100;
 $mixed = 3.14;
 var_dump($mixed);
 ?>
+
+//cd /d D:\Web-Technologies\PHP-Coding
+//php -S localhost:8000

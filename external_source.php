@@ -14,3 +14,6 @@ echo fread($file, filesize("test.txt"));
 fclose($file);
 
 ?>
+
+
+//php -S localhost:8000
